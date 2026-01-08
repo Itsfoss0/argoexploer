@@ -6,4 +6,4 @@ resources:
 images:
 - name: PROJECT/IMAGE
   newName: akhonya/dwk1
-  newTag: 7d809c042fee494109d4a799155e4b08a03d8e2a
+  newTag: 727e64842cee76e7aa327058f5f4f204d7c2aeb1
