@@ -5,4 +5,5 @@ resources:
 - manifests/service.yaml
 images:
 - name: PROJECT/IMAGE
-  newName: mluukkai/dwk1
+  newName: akhonya/dwk1
+  newTag: 7d809c042fee494109d4a799155e4b08a03d8e2a
